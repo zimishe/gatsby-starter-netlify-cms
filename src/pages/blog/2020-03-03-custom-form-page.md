@@ -8,6 +8,7 @@ featuredimage: /img/background_2.jpg
 tags:
   - no tags
 customFormFields:
+  submitButtonCaption: toitle
   title_1: firstName
   title_2: lastName
   type_1: text
