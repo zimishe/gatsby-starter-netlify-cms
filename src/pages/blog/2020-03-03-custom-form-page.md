@@ -8,10 +8,16 @@ featuredimage: /img/background_2.jpg
 tags:
   - no tags
 customFormFields:
-  submitButtonCaption: toitle
+  checkBoxesSection:
+    checkbox_1: 'no'
+    checkbox_2: thanks
+    checkboxes_description: keep me notified
+  submitButtonCaption: submit
   title_1: firstName
   title_2: lastName
-  type_1: text
+  title_3: email
+  type_1: number
   type_2: text
+  type_3: email
 ---
 b
