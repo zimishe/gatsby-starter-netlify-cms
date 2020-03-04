@@ -3,7 +3,7 @@ templateKey: blog-post
 title: custom form page
 date: 2020-03-03T14:58:35.954Z
 description: cfp
-featuredpost: false
+featuredpost: true
 featuredimage: /img/background_2.jpg
 tags:
   - no tags
